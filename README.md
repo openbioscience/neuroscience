@@ -29,6 +29,7 @@
 ## Tools
 - [google/neuroglancer](https://github.com/google/neuroglancer). View the brain
   connectome for various model organisms.
+- [3D Brain at BrainFacts.org](https://www.brainfacts.org/3d-brain). Interactive 3D brain with anatomical features annotated.
 
 ## Research
 - [NIH BRAIN Initiative](https://braininitiative.nih.gov/). Accelerating the
