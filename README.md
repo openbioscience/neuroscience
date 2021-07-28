@@ -22,14 +22,24 @@
     not_ connect to.
 
 ## Journals
-- Neuron
+- [Neuron](https://www.cell.com/neuron/home)
+- [Brain](https://academic.oup.com/brain)
+- [Cerebral Cortex](https://academic.oup.com/cercor)
+- [NeuroImage](https://www.journals.elsevier.com/neuroimage)
 - Nature
-- PLoS Biology
+  - Nature Neuroscience
+  - Nature Human Behavior
+  - Nature Communication
+- [PLoS Biology](https://journals.plos.org/plosbiology/)
+- [Neurosurgery](https://academic.oup.com/neurosurgery)
+- [Journal of Neurosurgery](https://thejns.org/)
+- [Neuro-oncology](https://academic.oup.com/neuro-oncology)
 
 ## Tools
 - [google/neuroglancer](https://github.com/google/neuroglancer). View the brain
   connectome for various model organisms.
 - [3D Brain at BrainFacts.org](https://www.brainfacts.org/3d-brain). Interactive 3D brain with anatomical features annotated.
+- [DSI Studio](http://dsi-studio.labsolver.org/). Tractography software for diffusion MRI (diffusion tensor imaging) analysis.
 
 ## Research
 - [NIH BRAIN Initiative](https://braininitiative.nih.gov/). Accelerating the
